@@ -32,6 +32,7 @@ context('sidebar.configurations', () => {
     'loadnavbar',
     'loadsidebar',
     'hidesidebar',
+    'sidebarAbsolutePath',
     'submaxlevel',
     'auto2top',
     'homepage',
